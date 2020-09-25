@@ -6,7 +6,7 @@ Procedemos a crear nuestro directorio  y crear/alojar nuestro docker-compose.yml
 ```bash
 mkdir nombre_proyecto
 cd nombre_proyecto
-touch docker-compose.yml
+touch docker-compose.yml #Escribimos o alojamos el .yml en este directorio
 ```
 Luego de esto procedemos a ejecutar nuestro docker-compose.yml con la siguiente instrucción
 ```bash
