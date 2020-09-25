@@ -41,7 +41,7 @@ En caso de que se quiera ver el log detallado de todas las acciones que realiza 
 docker-compose -f letsencrypt #U otro nombre en caso de que se haya renombrado el contenedor
 ```
 
-### Pre-requisitos
+### Herramientas utilizadas / Requisitos
 
  * ##### Nginx
 Herramienta que nos va a permite definir nuestro servidor web y también nuestro proxy. (https://www.nginx.com/)
@@ -65,3 +65,4 @@ Corriendo sobre una VM con Ubuntu 18.04 LTS
  
  Otra opción es también ocupar una imagen nginx ya creada (https://hub.docker.com/) y simplemente indicarle en el docker-compose.yml donde está el index.html
 
+* #### Dominio y Hosting
