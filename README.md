@@ -1,5 +1,5 @@
 # Docker + Nginx + Let's Encrypt
-Contenedores Docker para obtener certificados ssl de Let's ENcryp auto renovables con Let's Encrypt en nuestro sistema!
+Contenedores Docker para obtener certificados SSL auto renovables con Let's Encrypt en nuestro sistema!
 
 ## Docker Compose
 Procedemos a crear nuestro directorio  y crear/alojar nuestro docker-compose.yml
